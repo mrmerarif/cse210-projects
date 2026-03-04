@@ -1,9 +1,10 @@
 using System;
 
 class Program
-{ // added the CHANGES //
+{ 
     static void Main(string[] args)
     {
+        // Ask the user for their first and last name, then display it in the format "Last Name, First Name Last Name" 
         Console.WriteLine("What is your first name? "); 
         string firstName = Console.ReadLine(); 
         
