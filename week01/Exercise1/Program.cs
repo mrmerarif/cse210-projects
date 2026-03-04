@@ -1,7 +1,7 @@
 using System;
 
 class Program
-{
+{ // added the CHANGES //
     static void Main(string[] args)
     {
         Console.WriteLine("What is your first name? "); 
